@@ -1,0 +1,87 @@
+.page-section.vertical-alignment--middle:not(.content-collection):not(.gallery-section):not(.user-items-list-section).section-height--large>.content-wrapper {
+    padding-top: 10vmax;
+    padding-bottom: 10vmax;
+}
+
+.page-section.horizontal-alignment--left>.content-wrapper {
+    justify-content: flex-start;
+}
+
+.page-section:not(.full-bleed-section)>.content-wrapper {
+    padding-right: 4vw;
+    padding-left: 4vw;
+    margin: 0 auto;
+    box-sizing: content-box;
+}
+
+.page-section>.content-wrapper {
+    display: flex;
+}
+
+.page-section>.content-wrapper {
+    width: 100%;
+    box-sizing: content-box;
+    position: relative;
+}
+
+.page-section>.content-wrapper {
+    max-width: 1600px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+.black.page-section {
+    color: #fff;
+}
+
+.page-section {
+    color: #fff;
+}
+
+@media screen and (min-width: 0) and (max-width: 1727px) and (orientation: landscape)
+.site-wrapper, .sqs-catalog {
+    font-size:calc ((1.1 - 1)* 1.2vw + 1rem);
+}
+
+.site-wrapper, .sqs-catalog {
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 1.8em;
+    font-family: degular-text;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0em;
+    text-transform: none;
+    line-height: 1.5em;
+    font-size: 1rem;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+body {
+    background-color: #393d24;
+    color: #fff;
+}
+
+body {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+
+html, body {
+    font-size: 15px;
+}
+
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+
